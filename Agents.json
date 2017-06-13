@@ -1,25 +1,5 @@
 [
   {
-    "age": 6,
-    "agreeableness": -0.40747441203817747,
-    "conscientiousness": 0.4352286422343134,
-    "country_name": "Haiti",
-    "country_tld": "ht",
-    "date_of_birth": "2011-12-21",
-    "extraversion": 1.4714618156987345,
-    "id": 6821129477,
-    "id_str": "bt3-xj9",
-    "income": 1386,
-    "internet": false,
-    "language": "Creole",
-    "latitude": 19.325567983697297,
-    "longitude": -72.43795260265814,
-    "neuroticism": -0.4503674752682471,
-    "openness": -0.879092424231703,
-    "religion": "Protestant",
-    "sex": "Female"
-  },
-  {
     "age": 16,
     "agreeableness": -2.1460304956821097,
     "conscientiousness": -0.06950842971399858,
